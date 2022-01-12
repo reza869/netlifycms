@@ -4,6 +4,7 @@ backend:
 # These lines should *not* be indented
 media_folder: "static/images"
 public_folder: "/images"
+publish_mode: editorial_workflow
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
     label: "Blog" # Used in the UI

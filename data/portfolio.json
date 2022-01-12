@@ -1,0 +1,65 @@
+[
+    {
+        "imgSrc": "/images/portfolio/portfolio-1.jpg",
+        "imgDetails": "/images/portfolio/portfolio-details.jpg",
+        "imgTitle": "Business Planning",
+        "imgText": "Best is the most porro quisquam esdolorem porro quis quam est, qui dolorem ipsum quia dolor sit amet, consecteture",
+        "slug": "1"
+    },
+    {
+        "imgSrc": "/images/portfolio/portfolio-2.jpg",
+        "imgDetails": "/images/portfolio/portfolio-details2.jpg",
+        "imgTitle": "Market Research",
+        "imgText": "Best is the most porro quisquam esdolorem porro quis quam est, qui dolorem ipsum quia dolor sit amet, consecteture",
+        "slug": "2"
+    },
+    {
+        "imgSrc": "/images/portfolio/portfolio-3.jpg",
+        "imgDetails": "/images/portfolio/portfolio-details.jpg",
+        "imgTitle": "SEO Optimization",
+        "imgText": "Best is the most porro quisquam esdolorem porro quis quam est, qui dolorem ipsum quia dolor sit amet, consecteture",
+        "slug": "3"
+    },
+    {
+        "imgSrc": "/images/portfolio/portfolio-4.jpg",
+        "imgDetails": "/images/portfolio/portfolio-details2.jpg",
+        "imgTitle": "Amazing Strategy",
+        "imgText": "Best is the most porro quisquam esdolorem porro quis quam est, qui dolorem ipsum quia dolor sit amet, consecteture",
+        "slug": "4"
+    },
+    {
+        "imgSrc": "/images/portfolio/portfolio-5.jpg",
+        "imgDetails": "/images/portfolio/portfolio-details.jpg",
+        "imgTitle": "Business Planning",
+        "imgText": "Best is the most porro quisquam esdolorem porro quis quam est, qui dolorem ipsum quia dolor sit amet, consecteture",
+        "slug": "5"
+    },
+    {
+        "imgSrc": "/images/portfolio/portfolio-6.jpg",
+        "imgDetails": "/images/portfolio/portfolio-details2.jpg",
+        "imgTitle": "PR & Marketing",
+        "imgText": "Best is the most porro quisquam esdolorem porro quis quam est, qui dolorem ipsum quia dolor sit amet, consecteture",
+        "slug": "6"
+    },
+    {
+        "imgSrc": "/images/portfolio/portfolio-7.jpg",
+        "imgDetails": "/images/portfolio/portfolio-details.jpg",
+        "imgTitle": "Business Strategy",
+        "imgText": "Best is the most porro quisquam esdolorem porro quis quam est, qui dolorem ipsum quia dolor sit amet, consecteture",
+        "slug": "7"
+    },
+    {
+        "imgSrc": "/images/portfolio/portfolio-8.jpg",
+        "imgDetails": "/images/portfolio/portfolio-details2.jpg",
+        "imgTitle": "Financial Analysis",
+        "imgText": "Best is the most porro quisquam esdolorem porro quis quam est, qui dolorem ipsum quia dolor sit amet, consecteture",
+        "slug": "8"
+    },
+    {
+        "imgSrc": "/images/portfolio/portfolio-9.jpg",
+        "imgDetails": "/images/portfolio/portfolio-details.jpg",
+        "imgTitle": "Business Planning",
+        "imgText": "Best is the most porro quisquam esdolorem porro quis quam est, qui dolorem ipsum quia dolor sit amet, consecteture",
+        "slug": "9"
+    }
+]

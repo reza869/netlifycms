@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Maven+Pro:wght@400;500;600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    body {
+        @apply text-theme-black font-maven;
+    }
+    img {
+        @apply inline-block;
+    }
+}
+
+@layer utilities {
+    .ml-outcontainer {
+        margin-left: -100px !important;
+        padding-left: 20px !important;
+    }
+    .mr-outcontainer {
+        margin-right: -100px !important;
+        padding-right: 20px !important;
+    }
+}
+@layer components {
+    .text-shape {
+        @apply absolute w-full h-2 sm:h-[18px] bg-gray-500 bottom-1 sm:bottom-2 z-n1 flex left-0;
+    }
+    .primary-btn {
+        @apply text-white bg-secondary font-metro font-semibold text-lg py-3 px-6 rounded hover:bg-primary transition-all inline-block;
+    }
+    .title{
+        @apply xl:text-[60px] lg:text-[44px] sm:text-[40px] text-[30px] font-bold text-primary leading-[1.2] font-metro;
+    }
+    .sub-title {
+        @apply text-sm md:text-base font-medium uppercase mb-[18px];
+    }
+    .section-p {
+        @apply lg:py-[130px] md:py-20 py-15;
+    }
+    .section-pt {
+        @apply lg:pt-[130px] md:pt-20 pt-15;
+    }
+    .section-pb {
+        @apply lg:pb-[130px] md:pb-20 pb-15;
+    }
+}
